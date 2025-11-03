@@ -8,7 +8,7 @@ Este projeto implementa um fluxo de trabalho serverless completo na AWS para pro
 
 A arquitetura do projeto é 100% serverless e dividida em dois fluxos independentes, como ilustrado abaixo:
 
-![Diagrama do Projeto](link-para-sua-imagem.png)
+![Diagrama do Projeto](imagens/hospitalok.drawio.png)
 
 ### Fluxo de Ingestão de Dados (Lado do Hospital)
 
